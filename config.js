@@ -19,5 +19,4 @@ config.msg.menu = 'For medical issues, press 1. For room and board, press 2. For
 config.msg.wait = 'Will connect you to our agent, please wait...';
 */
 
-
 module.exports = config;
